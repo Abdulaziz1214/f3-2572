@@ -1,4 +1,5 @@
 import React from 'react'
+import Abdurashid from './assets/component/Abdurashid'
 
 const App = () => {
   return (
