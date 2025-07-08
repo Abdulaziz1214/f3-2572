@@ -1,5 +1,6 @@
 import React from 'react'
 import YusufKrasavchik from './components/YusufKrasavchik'
+import Oybek from './components/Oybek'  
 
 const App = () => {
   return (
@@ -9,9 +10,10 @@ const App = () => {
       <h3>Yusuf</h3>
       <YusufKrasavchik />
       <h1>Yusuf</h1>
-      
+        <h1>oybrk</h1>
     </div>
   )
 }
 
 export default App
+
