@@ -1,6 +1,7 @@
 import React from 'react'
 import YusufKrasavchik from './components/YusufKrasavchik'
 import Oybek from './components/Oybek'  
+import Abdulloh from './Components/Abdulloh'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <YusufKrasavchik />
       <h1>Yusuf</h1>
         <h1>oybrk</h1>
+      <Abdulloh />
     </div>
   )
 }
