@@ -2,6 +2,7 @@ import React from 'react'
 import YusufKrasavchik from './components/YusufKrasavchik'
 import Abdulloh from './Components/Abdulloh'
 import Abdulloh2 from './Components/Abdulloh2'
+import Oybek from './components/Oybek'  
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <YusufKrasavchik />
       <Abdulloh />
       <Abdulloh2 />
+      <Oybek/>
     </div>
   )
 }
