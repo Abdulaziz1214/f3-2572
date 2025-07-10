@@ -6,7 +6,7 @@ import Abdulloh from './Components/Abdulloh'
 const App = () => {
   return (
     <div>
-      
+
     </div>
   )
 }
