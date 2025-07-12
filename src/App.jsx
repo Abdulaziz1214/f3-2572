@@ -1,9 +1,10 @@
 import React from 'react'
+import Inputs from './components/Inputs'
 
 const App = () => {
   return (
     <div>
-      <h1>Echkilar</h1>
+      <Inputs/>
     </div>
   )
 }
